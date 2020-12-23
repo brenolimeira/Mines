@@ -37,7 +37,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 <p>npm install -g react-native-cli</p>
 
 <pre class=" language-bash"><code class=" language-bash"># Clone este repositório
-$ git clone &lt;<a class="vglnk" href="https://github.com/brenolimeira/Mines" rel="nofollow"><span>https</span><span>://</span><span>github</span><span>.</span><span>com</span><span>/</span><span>tgmarinho</span><span>/</span><span>nlw1</span></a>&gt;
+$ git clone &lt;<a class="vglnk" href="https://github.com/brenolimeira/Mines" rel="nofollow"><span>https</span><span>://</span><span>github</span><span>.</span><span>com</span><span>/</span><span>brenolimeira</span><span>/</span><span>Mines</span></a>&gt;
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd mines
