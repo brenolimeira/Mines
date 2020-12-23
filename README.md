@@ -65,4 +65,4 @@ $ npx react-native run-android
 Feito com ❤️ por Breno Silvério 👋🏽 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbrenolimeira1)](https://twitter.com/brenolimeira1)
-[![Gmail Badge](https://img.shields.io/badge/-brenolimeira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenolimeira@gmail.com)](mailto:brenolimeira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-brenolimeira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenolimeira@gmail.com)](mailto:brenolimeira@gmail.com) ![Badge](https://img.shields.io/github/license/brenolimeira/Mines)
